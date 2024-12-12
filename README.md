@@ -1,2 +1,2 @@
-# Data_Analytics
-This project give me to the CodexCue Software Solutions
+# CodexCue Software Solution Internship Projects
+Here is the list of Projects completed in CodexCue Remote Internship.
